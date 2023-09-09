@@ -1,0 +1,2 @@
+C:\Users\omoru\Desktop\BankModel\obj\Debug\BM.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\omoru\Desktop\BankModel\obj\Debug\BM.ConsoleApp.csproj.CoreCompileInputs.cache

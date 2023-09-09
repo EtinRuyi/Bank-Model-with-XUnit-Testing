@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BM.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "BM.Core": "1.0.0"
+        },
+        "runtime": {
+          "BM.ConsoleApp.dll": {}
+        }
+      },
+      "BM.Core/1.0.0": {
+        "dependencies": {
+          "BM.Data": "1.0.0"
+        },
+        "runtime": {
+          "BM.Core.dll": {}
+        }
+      },
+      "BM.Data/1.0.0": {
+        "runtime": {
+          "BM.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BM.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BM.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BM.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

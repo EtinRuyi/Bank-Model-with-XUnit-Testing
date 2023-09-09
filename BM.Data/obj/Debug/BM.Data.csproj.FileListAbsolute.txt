@@ -1,0 +1,7 @@
+C:\Users\omoru\Desktop\BankModel\BM.Data\bin\Debug\BM.Data.dll.config
+C:\Users\omoru\Desktop\BankModel\BM.Data\bin\Debug\BM.Data.dll
+C:\Users\omoru\Desktop\BankModel\BM.Data\bin\Debug\BM.Data.pdb
+C:\Users\omoru\Desktop\BankModel\BM.Data\obj\Debug\BM.Data.csproj.AssemblyReference.cache
+C:\Users\omoru\Desktop\BankModel\BM.Data\obj\Debug\BM.Data.csproj.CoreCompileInputs.cache
+C:\Users\omoru\Desktop\BankModel\BM.Data\obj\Debug\BM.Data.dll
+C:\Users\omoru\Desktop\BankModel\BM.Data\obj\Debug\BM.Data.pdb
